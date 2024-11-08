@@ -4,6 +4,9 @@
 
  lab 2 https://github.com/aneesh1818/AIML_2303A51120/blob/main/lab_2_aiml.ipynb
 
+ lab 3 https://github.com/aneesh1818/AIML_2303A51120/blob/main/Lab03_AIML.ipynb
+
+
 
 
 

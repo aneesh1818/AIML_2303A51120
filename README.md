@@ -1,5 +1,7 @@
 # AIML_2303A51120
  lab 1 https://github.com/aneesh1818/AIML_2303A51120/blob/main/lab_01.ipynb
+
+
  lab 2 https://github.com/aneesh1818/AIML_2303A51120/blob/main/lab_2_aiml.ipynb
 
 

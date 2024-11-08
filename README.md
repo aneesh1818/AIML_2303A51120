@@ -16,9 +16,8 @@
 
  lab 8 https://github.com/aneesh1818/AIML_2303A51120/blob/main/lab_8_aiml.ipynb
 
+ lab 9 https://github.com/aneesh1818/AIML_2303A51120/blob/main/Lab09_RF_Classification.ipynb
 
-
-lab 10
-https://github.com/aneesh1818/AIML_2303A51120/blob/main/Lab10_KMeans.ipynb
+ lab 10 https://github.com/aneesh1818/AIML_2303A51120/blob/main/Lab10_KMeans.ipynb
 
 

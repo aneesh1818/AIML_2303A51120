@@ -14,6 +14,9 @@
 
  lab 7 https://github.com/aneesh1818/AIML_2303A51120/blob/main/lab_7_aiml.ipynb
 
+ lab 8 https://github.com/aneesh1818/AIML_2303A51120/blob/main/lab_8_aiml.ipynb
+
+
 
 lab 10
 https://github.com/aneesh1818/AIML_2303A51120/blob/main/Lab10_KMeans.ipynb
